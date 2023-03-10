@@ -8,13 +8,13 @@ EMPRATOR.on("ready", () => {
   );
   let statuses = [
   
-  `You only live once, so try to live for God.`,
+  `STREAMING BY DEV RAYAN | KP UP`,
  
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     EMPRATOR.user.setActivity(STREAMING, {      
-    type: "PLAING", 
+    type: "STREAMING", 
     url: "https://www.twitch.tv/faith"
     });
   }, 2000);
