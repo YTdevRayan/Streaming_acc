@@ -1,10 +1,10 @@
 {
-  "name": "EMPRATOR",
+  "name": "RAYAN",
   "version": "2.1.0",
-  "description": "PALYING ACCOUNT",
-  "main": "EMPRATOR.js",
+  "description": "STREAMING ACCOUNT",
+  "main": "RAYAN.js",
   "scripts": {
-    "start": "node EMPRATOR.js"
+    "start": "node RAYAN.js"
   },
   "dependencies": {
     "discord.js": "11.4.2",
