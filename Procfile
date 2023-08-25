@@ -1,1 +1,1 @@
-worker: node EMPRATOR.js
+worker: node RAYAN.js
